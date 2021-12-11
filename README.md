@@ -14,7 +14,7 @@
   
   ## Description
   
-   python-newsfeed
+   Use Python as the basis for a web server. Instead of building it from scratch, we'll refactor the back end of an app that was originally built using Node.js. The app, called Just Tech News, lets users submit links to tech-related articles, comment on other users' articles, and upvote articles for points.
  
   ## Table of Contents
   - [Description](#description)
@@ -28,19 +28,31 @@
   - [Contact](#contact)
 
   ## Documentation
-  TBD
+  
+  * <https://www.python.org/> - Documentation for Python
+  * <https://flask.palletsprojects.com/en/2.0.x/> - Flask Documentation
  
   ## Usage
-  TBD
+
+  * As a user, I want to be able to view the home and dashboard pages in the browser.
+  * As a user, I need a database that can store my account, posts, comments, or upvotes.
+  * As a user, I want to be able to see my posts on the homepage.
+  * I expect to see dates, URLs, and plural words properly formatted.
+  * As a user, I want to be able to log in and have my session remembered if I refresh the page.
+  * As a logged-in user, I want to be able to create new posts and comments and upvote other posts.
+  * As a user, I want to be able to visit the app on a public URL.
+
+
 
   ## Screenshot
-  ![Screenshot](TBD)
+  ![Screenshot](./assets/images/pypy-uwu.jpg)
 
   ## Features
   TBD
   
   # Acknowledgements
-  TBD
+  
+  * Rob Atalla
     
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-important)
