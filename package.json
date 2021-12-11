@@ -1,0 +1,23 @@
+{
+  "name": "python-newsfeed",
+  "version": "1.0.0",
+  "description": "![badge](https://img.shields.io/github/languages/top/ratalla816/python-newsfeed)   <br>    ![badge](https://img.shields.io/github/languages/count/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/issues/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/issues-closed/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/last-commit/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/badge/license-MIT-important)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratalla816/python-newsfeed.git"
+  },
+  "author": "Rob Atalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ratalla816/python-newsfeed/issues"
+  },
+  "homepage": "https://github.com/ratalla816/python-newsfeed#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express.js": "^1.0.0"
+  }
+}
