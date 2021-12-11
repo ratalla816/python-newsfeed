@@ -2,7 +2,7 @@
   "name": "python-newsfeed",
   "version": "1.0.0",
   "description": "![badge](https://img.shields.io/github/languages/top/ratalla816/python-newsfeed)   <br>    ![badge](https://img.shields.io/github/languages/count/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/issues/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/issues-closed/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/github/last-commit/ratalla816/python-newsfeed)   <br>   ![badge](https://img.shields.io/badge/license-MIT-important)",
-  "main": "index.js",
+  "main": "__init__.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
