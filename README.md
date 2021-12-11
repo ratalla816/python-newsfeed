@@ -31,6 +31,7 @@
   
   * <https://www.python.org/> - Documentation for Python
   * <https://flask.palletsprojects.com/en/2.0.x/> - Flask Documentation
+  * Left off here: <https://coding-boot-camp.github.io/continuation-courses/python/lesson-2-models>
  
   ## Usage
 
