@@ -43,6 +43,10 @@
   * As a logged-in user, I want to be able to create new posts and comments and upvote other posts.
   * As a user, I want to be able to visit the app on a public URL.
 
+  In Powershell 
+  * .\venv\Scripts\activate
+  * python -m flask run
+  * deactivate
 
 
   ## Screenshot
