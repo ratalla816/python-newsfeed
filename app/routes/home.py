@@ -49,5 +49,5 @@ def single(id):
 # We then pass the single post object to the single-post.html template. 
 # Once the template is rendered and the response sent, the context for this route terminates, and the teardown function closes the database connection.  
 
-def single(id):
-  return render_template('single-post.html')
+# def single(id):
+#   return render_template('single-post.html')
