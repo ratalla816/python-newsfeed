@@ -26,9 +26,12 @@ def index():
 # We then use the query() method on the connection object to query the Post model for all posts in descending order, and we save the results in the posts variable.  
 
 @bp.route('/login')
-
 def login():
-  return render_template('login.html')
+  # not logged in yet
+  if session.get('loggedIn') is None:
+    return render_template('login.html')
+
+  return redirect('/dashboard')
 
 @bp.route('/post/<id>')
 def single(id):
