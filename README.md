@@ -59,18 +59,15 @@
   * As a user, I want to be able to visit the app on a public URL.
 
   ### Start the virtual environment (VENV) and Flask server in Powershell: 
+  
   * Activate VENV:
-  <br>
-  .\venv\Scripts\activate
+  <br>.\venv\Scripts\activate
   
   * Start server:
-  <br>
-  python -m flask run
+  <br>python -m flask run
   
   * Deactivate VENV:
-  <br>
-  deactivate
-
+  <br>deactivate
 
   ## Screenshot
   ![Screenshot](./assets/images/rtte1.jpg)
